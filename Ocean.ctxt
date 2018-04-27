@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ocean()
+comment1.params=
+comment1.target=void\ addTreasure()
+comment2.params=
+comment2.target=void\ startSharks()
+comment3.params=
+comment3.target=void\ addShark()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=change
+comment5.target=void\ changeScore(int)
+comment6.params=
+comment6.target=void\ gameOver()
+comment7.params=HowMuch
+comment7.target=void\ changeLivesCounterBy(int)
+comment8.params=
+comment8.target=boolean\ anyLivesLeft()
+numComments=9

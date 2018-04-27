@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=Boat(Gauge)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ firing()
+comment3.params=
+comment3.target=void\ movement()
+comment4.params=
+comment4.target=void\ checkLives()
+comment5.params=
+comment5.target=void\ loseLife()
+comment6.params=
+comment6.target=void\ getTreasure()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=startValue\ c
+comment0.target=Gauge(int,\ java.awt.Color)
+comment1.params=
+comment1.target=int\ getValue()
+comment2.params=HowMuch
+comment2.target=void\ changeValueBy(int)
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=valid
+comment4.target=boolean\ isValueValid(int)
+numComments=5
